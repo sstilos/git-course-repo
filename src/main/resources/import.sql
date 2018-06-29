@@ -1,0 +1,7 @@
+-- insert into users(id,username,email,password) values(1,'Stavros','s@s','1234');
+-- insert into users(id,username,email,password) values(2,'Thanos','t@s','1234');
+-- insert into users(id,username,email,password) values(3,'Panos','p@v','1234');
+--
+-- insert into notes(id,title,description,user_id) values(1,'first','f',1);
+-- insert into notes(id,title,description,user_id) values(2,'second','s',1);
+-- insert into notes(id,title,description,user_id) values(3,'third','t',2);
